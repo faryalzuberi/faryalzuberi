@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faryalzuberi
 - 👀 I’m interested in architecting robust and scalable solutions for tech start ups
-- 🌱 I’m currently pursuing Data Analytics 
+- 🌱 I’m currently pursuing EdTech 
 - 📫 You can e-mail me at faryalzuberi@hotmail.com
 
 <!---
